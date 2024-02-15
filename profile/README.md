@@ -18,7 +18,11 @@ If you have any feedback, please reach out to us at acemadevs@gmail.com
 ## Contact
 For contact, email acemadevs@gmail.com or visit our social media:
 
-[![Instagram](https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/acemacohetes/) [![TikTok](https://img.shields.io/badge/TikTok-ffffff?style=for-the-badge&logo=tiktok&logoColor=black)](https://tiktok.com/@acema_coheteria) [![Facebook](https://img.shields.io/badge/Facebook-ffffff?style=for-the-badge&logo=facebook&logoColor=black)](https://facebook.com/people/ACEMA/100089890884962/) [![Twitter](https://img.shields.io/badge/twitter-ffffff?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/PyD_ACEMA) [![YouTube](https://img.shields.io/badge/YouTube-ffffff?style=for-the-badge&logo=youtube&logoColor=black)](https://youtube.com/@acemacohetes)
+[![Instagram](https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/acemacohetes)
+[![TikTok](https://img.shields.io/badge/TikTok-ffffff?style=for-the-badge&logo=tiktok&logoColor=black)](https://tiktok.com/@acema_coheteria)
+[![Facebook](https://img.shields.io/badge/Facebook-ffffff?style=for-the-badge&logo=facebook&logoColor=black)](https://facebook.com/people/ACEMA/100089890884962)
+[![Twitter](https://img.shields.io/badge/twitter-ffffff?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/PyD_ACEMA)
+[![YouTube](https://img.shields.io/badge/YouTube-ffffff?style=for-the-badge&logo=youtube&logoColor=black)](https://youtube.com/@acemacohetes)
 
 ## Related
 Here are some related projects:
@@ -30,5 +34,5 @@ Here are some related projects:
 
 ## Authors
 - [@garaycarlosalfredo](https://github.com/garaycarlosalfredo)
-- [@gleguizamon](https://www.github.com/gleguizamon)
+- [@gleguizamon](https://github.com/gleguizamon)
 - [@gussy1981](https://github.com/Gussy1981)
