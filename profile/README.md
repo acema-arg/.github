@@ -1,8 +1,6 @@
 <p align="center">
   <a href="https://www.acema.com.ar">
-    <picture>
-      <img height="150" alt="Acema" src="https://acema.com.ar/assets/logo.svg">
-    </picture>
+    <img height="150" alt="Acema" src="https://acema.com.ar/assets/logo.svg">
   </a>
 </p>
 <h1 align="center">ACEMA</h1>
