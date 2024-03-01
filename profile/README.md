@@ -34,3 +34,4 @@ Here are some related projects:
 - [@garaycarlosalfredo](https://github.com/garaycarlosalfredo)
 - [@gleguizamon](https://github.com/gleguizamon)
 - [@gussy1981](https://github.com/Gussy1981)
+- [@patriciopg02](https://github.com/Patriciopg02)
