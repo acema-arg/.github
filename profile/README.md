@@ -31,7 +31,8 @@ Here are some related projects:
 - [nozzle-calc](https://gist.github.com/gleguizamon/9bab4870fc30dace8111986fa6bed030)
 
 ## Authors
-- [@garaycarlosalfredo](https://github.com/garaycarlosalfredo)
 - [@gleguizamon](https://github.com/gleguizamon)
 - [@gussy1981](https://github.com/Gussy1981)
-- [@patriciopg02](https://github.com/Patriciopg02)
+
+## Contributors
+- [@garaycarlosalfredo](https://github.com/garaycarlosalfredo)
