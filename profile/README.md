@@ -3,7 +3,6 @@
     <img height="150" alt="Acema" src="https://acema.com.ar/assets/logo.svg">
   </a>
 </p>
-<h1 align="center">ACEMA</h1>
 <h3 align="center">Asociación de cohetería experimental y modelista de Argentina 🇦🇷 🚀</h3>
 
 ## Contributing
