@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.acema.com.ar">
-    <img height="150" alt="logo acema" src="https://github.com/user-attachments/assets/dfdc60f0-7638-4b19-b521-040c27242c0b">
+    <img height="100" alt="logo acema" src="https://github.com/user-attachments/assets/dfdc60f0-7638-4b19-b521-040c27242c0b">
   </a>
 </p>
 <h3 align="center">Asociación de cohetería experimental y modelista de Argentina 🇦🇷 🚀</h3>
