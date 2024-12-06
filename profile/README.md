@@ -10,8 +10,6 @@ Contributions are always welcome!
 
 Let us know if you want to collaborate with us in our projects at acemadevs@gmail.com
 
-If you have any feedback, please reach out to us at acemadevs@gmail.com
-
 ## Contact
 For contact, email acemadevs@gmail.com or visit our social media:
 
@@ -28,10 +26,3 @@ Here are some related projects:
 - [rocket-gyrscope-config](https://gist.github.com/gleguizamon/73111423876ad175fc9d311089daef66)
 - [rocket-altimeter-config](https://gist.github.com/gleguizamon/177f2d58383fd3a35a8bdb8be9b8222d)
 - [nozzle-calc](https://gist.github.com/gleguizamon/9bab4870fc30dace8111986fa6bed030)
-
-## Authors
-- [@gleguizamon](https://github.com/gleguizamon)
-- [@gussy1981](https://github.com/Gussy1981)
-
-## Contributors
-- [@garaycarlosalfredo](https://github.com/garaycarlosalfredo)
